@@ -11,5 +11,6 @@ fun main(args: Array<String>) {
         }
     }
 
+
     println("Frequency of $ch = $frequency")
 }

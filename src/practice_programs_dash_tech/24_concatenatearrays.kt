@@ -13,4 +13,5 @@ fun main() {
     System.arraycopy(array2, 0, result, aLen, bLen)
 
     println(Arrays.toString(result))
+
 }

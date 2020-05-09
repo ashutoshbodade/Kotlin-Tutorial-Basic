@@ -14,6 +14,7 @@ fun main(args: Array<String>) {
         println("str2 is null or empty.")
     else
         println("str2 is not null or empty.")
+
 }
 
 fun isNullOrEmptyy(str: String?): Boolean {

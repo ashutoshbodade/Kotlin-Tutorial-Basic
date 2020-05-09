@@ -20,4 +20,5 @@ fun main() {
         println("$originalInteger is a palindrome.")
     else
         println("$originalInteger is not a palindrome.")
+
 }

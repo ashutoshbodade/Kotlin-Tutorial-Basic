@@ -6,4 +6,5 @@ fun main() {
     for (element in array) {
         println(element)
     }
+
 }

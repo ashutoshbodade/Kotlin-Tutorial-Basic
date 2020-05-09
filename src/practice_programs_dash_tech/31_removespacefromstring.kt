@@ -6,4 +6,5 @@ fun main() {
 
     sentence = sentence.replace("\\s".toRegex(), "")
     println("After replacement: $s entence")
+
 }

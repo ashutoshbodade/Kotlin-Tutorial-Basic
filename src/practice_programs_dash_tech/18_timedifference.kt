@@ -34,4 +34,5 @@ fun difference(start: Time, stop: Time): Time {
     return difff
 }
 
+
 class Time(internal var hours: Int, internal var minutes: Int, internal var seconds: Int)

@@ -8,6 +8,7 @@ fun main() {
 
     originalInteger = 'num'
 
+
     // reversed integer is stored in variable
     while (num != 0) {
         remainder = num % 10
