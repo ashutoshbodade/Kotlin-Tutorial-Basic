@@ -3,7 +3,7 @@ package practice_programs_dash_tech
 fun main() {
 
     val style = "Bold"
-    val style2 = "bold"
+    val style2 = 'bold'
 
     if (style == style2)
         println("Equal")

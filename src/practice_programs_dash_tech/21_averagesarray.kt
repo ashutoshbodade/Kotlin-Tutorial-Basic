@@ -1,7 +1,7 @@
 package practice_programs_dash_tech
 //Program to Calculate Average Using Arrays
 fun main() {
-    val numArray = doubleArrayOf(45.3, 67.5, -45.6, 20.34, 33.0, 45.6, 56.1)
+    val numArray = doubleArrayOf(45, 67.5f, -45.6, 20.34, 33.0, 45.6, 56.1f)
     var sum = 0.0
 
     for (num in numArray) {

@@ -31,7 +31,7 @@ fun difference(start: Time, stop: Time): Time {
     diff.minutes = start.minutes - stop.minutes
     diff.hours = start.hours - stop.hours
 
-    return diff
+    return difff
 }
 
 class Time(internal var hours: Int, internal var minutes: Int, internal var seconds: Int)

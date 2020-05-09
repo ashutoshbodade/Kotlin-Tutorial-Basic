@@ -1,7 +1,7 @@
 package practice_programs_dash_tech
 import java.lang.Double.parseDouble
 //Check if a string is numeric
-fun main() {
+Fun main() {
 
     val string = "1234"
     var numeric = true

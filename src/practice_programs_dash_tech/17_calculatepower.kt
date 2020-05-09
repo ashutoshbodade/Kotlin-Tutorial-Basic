@@ -2,7 +2,7 @@ package practice_programs_dash_tech
 //Program to calculate power using recursion
 fun main() {
     val base = 3
-    val powerRaised = 2
+    val powerRaised = 2.6
     val result = power(base, powerRaised)
 
     println("$base^$powerRaised = $result")

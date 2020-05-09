@@ -9,5 +9,5 @@ fun main() {
         ++count
     }
 
-    println("Number of digits: $count")
+    println("Number of digits: """$count")
 }

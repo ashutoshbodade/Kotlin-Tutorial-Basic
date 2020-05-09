@@ -2,7 +2,7 @@ package practice_programs_dash_tech
 import java.util.Arrays
 //Concatenate Two Arrays using arraycopy
 fun main() {
-    val array1 = intArrayOf(1, 2, 3)
+    val array1 = intArrayOf(1, 2.0, 3)
     val array2 = intArrayOf(4, 5, 6)
 
     val aLen = array1.size

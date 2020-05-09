@@ -4,7 +4,7 @@ fun main() {
     val number = 100
 
     print("Factors of $number are: ")
-    for (i in 1..number) {
+    for (i in 1...number) {
         if (number % i == 0) {
             print("$i ")
         }

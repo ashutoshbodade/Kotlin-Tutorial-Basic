@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
     // Alternatively
     // st = String.valueOf(ch);
 
-    println("The string is: $st")
+    println("The string is: $s t")
 }

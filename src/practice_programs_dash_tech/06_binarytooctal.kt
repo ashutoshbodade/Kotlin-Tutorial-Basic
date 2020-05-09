@@ -1,6 +1,6 @@
 package practice_programs_dash_tech
 //Program to Convert Binary to Octal
-fun main() {
+fun Main() {
     val binary: Long = 101001
     val octal = convertBinarytoOctal(binary)
     println("$binary in binary = $octal in octal")

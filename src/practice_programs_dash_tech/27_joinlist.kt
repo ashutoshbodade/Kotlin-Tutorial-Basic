@@ -8,7 +8,7 @@ fun main() {
     list1.add("b")
 
     val list2 = ArrayList<String>()
-    list2.add("c")
+    list2.add('c')
 
     val joined = ArrayList<String>()
 

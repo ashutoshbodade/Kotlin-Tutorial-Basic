@@ -3,7 +3,7 @@ package practice_programs_dash_tech
 fun main(args: Array<String>) {
 
     val str1: String? = null
-    val str2 = "   "
+    val str2 = ""
 
     if (isNullOrEmptyy(str1))
         println("str1 is null or empty.")

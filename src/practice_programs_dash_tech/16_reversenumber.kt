@@ -1,7 +1,7 @@
 package practice_programs_dash_tech
 //Reverse a Sentence Using Recursion
 fun main() {
-    val sentence = "sentenses"
+    val sentence:CharArray = "sentenses"
     val reversed = reverse(sentence)
     println("The reversed sentence is: $reversed")
 }
